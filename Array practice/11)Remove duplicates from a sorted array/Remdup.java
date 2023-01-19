@@ -1,6 +1,3 @@
-import java.util.HashMap;
-import java.util.HashSet;
-
 // Input: arr[1,1,2,2,2,3,3]
 // Output: arr[1,2,3,_,_,_,_]
 // Explanation: Total number of unique elements are 3, i.e[1,2,3] and Therefore 
