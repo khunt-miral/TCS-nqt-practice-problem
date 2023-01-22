@@ -21,5 +21,6 @@ public class Equilib {
             lsum += nums[i];
         }
         return -1;
+
     }
 }
